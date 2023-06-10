@@ -23,6 +23,7 @@ body {
 
 img {
   max-width: 100%;
+  border-radius: 10px 0 0 10px;
 }
 
 .grid {
@@ -44,6 +45,7 @@ img {
   justify-content: space-between;
   padding: 4rem;
   background-color: hsl(0, 0%, 100%);
+  border-radius: 0 10px 10px 0;
 }
 
 h1 {
